@@ -1,0 +1,124 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-1",
+        "desc": "8 May 2021 at 07:43:20",
+        "time": "2021-05-08T06:43:20Z",
+        "radius": 51.72816652052113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5304521008325733,
+          51.47166980571885,
+          69.60495877600799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-2",
+        "desc": "8 May 2021 at 07:47:35",
+        "time": "2021-05-08T06:47:35Z",
+        "radius": 87.25024627649087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5334985098113356,
+          51.4722326416855,
+          66.29996360493344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-3",
+        "desc": "8 May 2021 at 07:57:21",
+        "time": "2021-05-08T06:57:21Z",
+        "radius": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.538243547384368,
+          51.472440144536186,
+          63.30000305175844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-4",
+        "desc": "8 May 2021 at 08:02:08",
+        "time": "2021-05-08T07:02:08Z",
+        "radius": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5409960587683345,
+          51.47251854249254,
+          59.68909466618332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-5",
+        "desc": "8 May 2021 at 08:05:27",
+        "time": "2021-05-08T07:05:27Z",
+        "radius": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5402655762473,
+          51.4711284440431,
+          63.24033891233644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-6",
+        "desc": "8 May 2021 at 08:08:04",
+        "time": "2021-05-08T07:08:04Z",
+        "radius": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.538462248751146,
+          51.47106445809095,
+          66.30000305175781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geo:Region-7",
+        "desc": "8 May 2021 at 08:11:05",
+        "time": "2021-05-08T07:11:05Z",
+        "radius": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5356622258999115,
+          51.470778406498205,
+          66.30000305175781
+        ]
+      }
+    }
+  ]
+}
